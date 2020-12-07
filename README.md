@@ -1,4 +1,4 @@
-# FileDeleter
+# File Handler
 
 It's a file handler: you input the folder path and the file name (with extension) and the script deletes it for you or opens the file.
 
